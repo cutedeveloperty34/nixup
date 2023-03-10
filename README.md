@@ -63,9 +63,9 @@ Complete Documentation for All-Url-Uploader Bot
 
  * [x] deploy to vps setup
  * [x] custom thumbnail support
- * [ ] custom caption support
- * [ ] mega.nz support
- * [ ] pdisk support
+ * [x] custom caption support
+ * [x] streamtape support
+ * [x] mdisk support
  <br>
 <h1>💥 Deploy</h1>
 
@@ -164,7 +164,7 @@ python3 bot.py
 <!--
 MIT License
 
-Copyright (c) 2022 Hash Minner
+Copyright (c) 2022 Rahul Thakor
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
